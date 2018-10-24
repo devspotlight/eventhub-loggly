@@ -22,8 +22,8 @@ project.lock.json
 .secrets
 appsettings.json
 local.settings.json
-.vscode/
-3.0.1/
+**/.vscode/
+**/3.0.1/
 node_modules
 
 # Local python packages
