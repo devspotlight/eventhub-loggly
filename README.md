@@ -1,2 +1,2 @@
 
-Eventhubloggy
+Eventhubloggly
