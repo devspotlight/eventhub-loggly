@@ -27,7 +27,7 @@ local.settings.json
 node_modules
 
 # Local python packages
-.python_packages/
+
 
 # Python Environments
 .env
