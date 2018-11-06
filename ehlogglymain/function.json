@@ -5,7 +5,7 @@
       "type": "eventHubTrigger",
       "name": "event",
       "direction": "in",
-      "eventHubName": "vfnsgtest",
+      "eventHubName": "demogrouplogs",
       "connection": "EventHub",
       "cardinality": "one",
       "consumerGroup": "$Default"
